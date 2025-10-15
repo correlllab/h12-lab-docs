@@ -44,6 +44,6 @@
 | 4 | left_ankle_pitch | -0.897334~+0.523598 rad |
 | 5 | left_ankle_roll | -0.261799~+0.261799 rad |
 
-![image.png](assets/h12_joint_numbers.png)
+![image.png](../assets/h12_joint_numbers.png)
 
 ---
