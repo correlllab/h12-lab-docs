@@ -15,7 +15,7 @@ h12-lab-docs/
 │ └── specs.md # Hardware specifications (motors, sensors, etc.)
 │ └── repos.md # Relevant GitHub Repos for the H12
 │
-├── images/ # Reference images and diagrams
+├── assets/ # Reference images and diagrams
 ├── README.md # Overview
 └── LICENSE
 
