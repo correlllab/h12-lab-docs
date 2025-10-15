@@ -6,6 +6,7 @@ Documentation for the **Unitree H12** robot.
 
 ## 📁 File Structure
 
+```text
 h12-lab-docs/
 ├── docs/ # Main documentation files
 │ ├── setup.md # TODO
