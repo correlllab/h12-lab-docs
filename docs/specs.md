@@ -19,15 +19,15 @@
 | 20 | right_shoulder_pitch | -1.57~+3.14 rad |
 | 21 | right_shoulder_roll | -3.4~+0.38 rad |
 | 22 | right_shoulder_yaw | -2.66~+3.01 rad |
-| 23 | right_elbow_pitch | -1.6~+2.53 rad |
-| 24 | right_elbow_roll | -2.967~+2.967 rad |
+| 23 | right_elbow_pitch -> right_elbow((IsaacLab) | -1.6~+2.53 rad |
+| 24 | right_elbow_roll -> right_wrist_roll(IsaacLab) | -2.967~+2.967 rad |
 | 25 | right_wrist_pitch | -0.471~+0.349 rad |
 | 26 | right_wrist_yaw | -1.012~+1.012 rad |
 | 13 | left_shoulder_pitch | -3.14~+1.57 rad |
 | 14 | left_shoulder_roll | -0.38~+3.4 rad |
 | 15 | left_shoulder_yaw | -3.01~+2.66 rad |
-| 16 | left_elbow_pitch | -2.53~+1.6 rad |
-| 17 | left_elbow_roll | -2.967~+2.967 rad |
+| 16 | left_elbow_pitch -> left_elbow(IsaacLab)| -2.53~+1.6 rad |
+| 17 | left_elbow_roll -> left_wrist_roll(IsaacLab) | -2.967~+2.967 rad |
 | 18 | left_wrist_pitch | -0.471~+0.349 rad |
 | 19 | left_wrist_yaw | -1.012~+1.012 rad |
 | 12 | torso | -3.14~+1.57 rad |
