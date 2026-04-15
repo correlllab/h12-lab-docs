@@ -1,8 +1,10 @@
 # Motors and Joints
 
+[Back to README.md](../README.md)
+
 ---
 
-### Motor Parameters
+## Motor Parameters
 
 | Motor Model | Speed Ratio | Torque (Nm) | Rotor Moment of Inertia (×10⁻¹ kg·m²) | Output Total Equivalent Moment (kg·m²) | Joints Number |
 | --- | --- | --- | --- | --- | --- |
@@ -12,7 +14,7 @@
 | M107-24 | 24 | 300 | 2.71 | 0.160478022 | 7, 8, 9, 1, 2, 3 |
 | N5020-16 | 16 | 25 | 0.139 | 0.003609725 | 26, 24, 25, 17, 18, 19 |
 
-### Joint Names & Limits
+## Joint Names & Limits
 
 | Joint Number | Joint Name | Limits |
 | --- | --- | --- |
@@ -26,7 +28,7 @@
 | 13 | left_shoulder_pitch | -3.14~+1.57 rad |
 | 14 | left_shoulder_roll | -0.38~+3.4 rad |
 | 15 | left_shoulder_yaw | -3.01~+2.66 rad |
-| 16 | left_elbow_pitch -> left_elbow(IsaacLab)| -2.53~+1.6 rad |
+| 16 | left_elbow_pitch -> left_elbow(IsaacLab) | -2.53~+1.6 rad |
 | 17 | left_elbow_roll -> left_wrist_roll(IsaacLab) | -2.967~+2.967 rad |
 | 18 | left_wrist_pitch | -0.471~+0.349 rad |
 | 19 | left_wrist_yaw | -1.012~+1.012 rad |
