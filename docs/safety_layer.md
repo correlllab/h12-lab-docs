@@ -17,15 +17,15 @@ For each mode below, run the listed script on the humanoid.
 
 ### Default safety profile
 
-- Full-body mode: `./scripts/start_estop_default_safety_full.sh`
-- Split mode: `./scripts/start_estop_default_safety_split.sh`
+- Full-body mode: `~/scripts/start_estop_default_safety_full.sh`
+- Split mode: `~/scripts/start_estop_default_safety_split.sh`
 
 ![Estop default safety full](../assets/safety_layer/start_estop_default_safety_full.png)
 
 ### Tight safety profile
 
-- Full-body mode: `./scripts/start_estop_tight_safety_full.sh`
-- Split mode: `./scripts/start_estop_tight_safety_split.sh`
+- Full-body mode: `~/scripts/start_estop_tight_safety_full.sh`
+- Split mode: `~/scripts/start_estop_tight_safety_split.sh`
 
 ![Estop tight safety full](../assets/safety_layer/start_estop_tight_safety_full.png)
 
@@ -33,19 +33,19 @@ For each mode below, run the listed script on the humanoid.
 
 ### Default safety profile
 
-- Full-body mode: `./scripts/start_noestop_default_safety_full.sh`
-- Split mode: `./scripts/start_noestop_default_safety_split.sh`
+- Full-body mode: `~/scripts/start_noestop_default_safety_full.sh`
+- Split mode: `~/scripts/start_noestop_default_safety_split.sh`
 
 ![No-estop default safety full](../assets/safety_layer/start_noestop_default_safety_full.png)
 
 ### Tight safety profile
 
-- Full-body mode: `./scripts/start_noestop_tight_safety_full.sh`
-- Split mode: `./scripts/start_noestop_tight_safety_split.sh`
+- Full-body mode: `~/scripts/start_noestop_tight_safety_full.sh`
+- Split mode: `~/scripts/start_noestop_tight_safety_split.sh`
 
 ![No-estop tight safety full](../assets/safety_layer/start_noestop_tight_safety_full.png)
 
 ## Safety Layer with Estop Button & Upper-Body Controller
 
-- Full-body mode: `./scripts/start_controller_safe_full.sh`
-- Split mode: `./scripts/start_controller_safe_split.sh`
+- Full-body mode: `~/scripts/start_controller_safe_full.sh`
+- Split mode: `~/scripts/start_controller_safe_split.sh`
