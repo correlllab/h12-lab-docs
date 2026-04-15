@@ -49,3 +49,5 @@ For each mode below, run the listed script on the humanoid.
 
 - Full-body mode: `~/scripts/start_controller_safe_full.sh`
 - Split mode: `~/scripts/start_controller_safe_split.sh`
+
+![Controller safe full](../assets/safety_layer/start_controller_safe_full.png)
