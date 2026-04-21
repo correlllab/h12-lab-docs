@@ -17,7 +17,7 @@ BOTTOM=$(tmux split-window -v -t "$TOP" -P -F '#{pane_id}')
 
 # TOP command
 tmux send-keys -t "$TOP" \
-    "zsh -lc 'source /home/unitree/core_ws/install/setup.sh && ros2 launch h12_ros2_controller robot_safety_launch.py config:=safety_split safety_config:=default_safety_split.py'" C-m
+    "zsh -lc 'source /home/unitree/core_ws/install/setup.sh && ros2 launch h12_ros2_controller robot_safety_launch.py config:=safety_split safety_config:=default_safety_split'" C-m
 
 # keep bottom pane selected and empty
 tmux select-pane -t "$BOTTOM"
